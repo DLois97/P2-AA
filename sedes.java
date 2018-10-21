@@ -1,5 +1,6 @@
 
 public class sedes {
+
 public static int sedesSinCostedeTraslado(int[] c0, int[] c1, int f){
 	int coste = 0;
 	int anterior  = 0;
